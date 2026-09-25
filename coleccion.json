@@ -1,0 +1,76 @@
+{
+  "info": {
+    "_postman_id": "76a917f3-0789-44c4-a0d6-0cb8aa05058d",
+    "name": "Taller-API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "43884054",
+    "_collection_link": "https://go.postman.co/collection/43884054-76a917f3-0789-44c4-a0d6-0cb8aa05058d?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "01-GET-Recurso",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "02-GET-Coleccion",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "03-GET-Inexistente",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "04-POST-Crear",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "05-PUT-Actualizar",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "06-PATCH-Modificar",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "07-DELETE-Eliminar",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    }
+  ]
+}
